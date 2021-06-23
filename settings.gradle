@@ -1,0 +1,2 @@
+rootProject.name = "TIC TAC TOE GAME"
+include ':app'
